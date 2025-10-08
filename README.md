@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Safa Dhen!
 
-<!--
-**SafaDhen/SafaDhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatik-Studentin (B.Sc.)  
+💻 Interessiert an Softwareentwicklung & Webtechnologien  
+🌱 Aktuell lerne ich Python weiter , CSS und HTML 
+📫 Kontakt: safadhen7@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologien, mit denen ich arbeiten kann:
+- C/C++🌐
+- Python 🐍(selbstgelernt)
+- Git & GitHub 💾
+
+### 📚 Meine Ziele:
+- Bessere Kenntnisse in Webentwicklung
+- Erste eigene Projekte veröffentlichen
+- Zusammenarbeit in Open-Source-Projekten
