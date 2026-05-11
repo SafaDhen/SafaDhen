@@ -2,7 +2,7 @@
 
 🎓 Informatik-Studentin (B.Sc.)  
 💻 Interessiert an Softwareentwicklung & Webtechnologien  
-🌱 Aktuell lerne ich Python weiter , CSS , HTML und Javascript  (für Frontend). Zusätzlich arbeite ich gerade mehr mit PHP, PostgreSQL und MySQL.
+🌱 Aktuell lerne ich   CSS , HTML und Javascript  (für Frontend). Zusätzlich arbeite ich gerade mehr mit PHP, PostgreSQL und MySQL.
 📫 Kontakt: safadhen7@gmail.com
 
 ---
